@@ -415,10 +415,10 @@ Special thanks to **Oasis Infobyte** for providing this opportunity to work on p
 # 📬 Connect With Me
 
 ## 🔗 GitHub
-https://github.com/affanrahmani590/OIBSIP
+https://github.com/rupeshkumar8743
 
 ## 🔗 LinkedIn
-https://www.linkedin.com/in/affan-rahmani-89000a347
+https://www.linkedin.com/in/rupesh-kumar-98ba7733a
 
 ---
 
